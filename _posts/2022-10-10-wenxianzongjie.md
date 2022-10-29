@@ -8,7 +8,7 @@ date: 2022-10-10
 
 categories: 史纲
 
-tags: 史纲;文献
+tags: 史纲 文献
 
 description: 文献总结
 
