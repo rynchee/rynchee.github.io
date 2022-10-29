@@ -1,11 +1,11 @@
 # Site settings 按照自己的网站信息做点修改
-title: flyzy小站
-SEOTitle: flyzy小站 | flyzy小站，GitHub Pages分部
+title: 学习笔记
+SEOTitle: 
 header-img: img/home-bg.jpg
-email: flyzy2005@gmail.com
-description: "flyzy小站GitHub分站~"
-keyword: "技术分享,科学上网,建站教程"
-url: "https://flyzy2005.github.io"              # your host, for absolute URL
+email: 
+description: "主要用来做史纲笔记"
+keyword: ""
+url: ""              # your host, for absolute URL
 baseurl: ""         # 例如, '/blog' 如果你的博客的路径是'host/blog'，默认是空
 
 
