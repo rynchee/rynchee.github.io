@@ -12,12 +12,12 @@ baseurl: ""         # 例如, '/blog' 如果你的博客的路径是'host/blog'�
 
 # SNS settings 就是关于我下面的图标，不需要注释即可~需要就填自己的用户名
 RSS: false
-csdn_username: wf632856695
-#weibo_username:     flyzy2005
-#zhihu_username:     flyzy2005
-github_username:    flyzy2005
-#twitter_username:  flyzy2005
-#facebook_username:  flyzy2005
+csdn_username: 
+#weibo_username:     
+#zhihu_username:     
+github_username:    
+#twitter_username:  
+#facebook_username:  
 
 
 
@@ -68,7 +68,7 @@ ga_track_id: 'UA-112052918-2'            # 格式: UA-xxxxxx-xx
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "学习ing~</br>主页：<a href=\"https://www.flyzy2005.cn\">flyzy小站</a>" # 关于我的介绍
+sidebar-about-description: "学习ing~</br>主页：<a href=\"https://rynchee.github.io/n\">学习笔记</a>" # 关于我的介绍
 sidebar-avatar: /img/avatar.jpg      # 头像图片，在首页、关于我、标签聚合里用到
 
 
