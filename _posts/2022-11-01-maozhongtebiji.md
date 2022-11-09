@@ -57,11 +57,11 @@ description: 技巧班
 
 - 时态问题。完成时态不一定是错的，但要非常注意。在基础知识中遇到的完成时态要记忆。
 
-  >实现了马克思主义中国化的第一次飞跃一一毛泽东思想
+  >实现了马克思主义中国化的第一次飞跃——毛泽东思想
   >
-  >实现了马克思主义中国化的第二次飞跃一一中特
+  >实现了马克思主义中国化的第二次飞跃——中特
   >
-  >实现了马克思主义中国化的新飞跃一一习
+  >实现了马克思主义中国化的新飞跃——习
   >
   >马克思主义同中国实际、传统文化相结合：第一次结合——毛：第二次结合——毛提出，但一直在路上）
 
@@ -128,7 +128,8 @@ description: 技巧班
 - 狭义的社会主义建设=社会主义探索建设=1956～1976。社会主义建设一般专指狭义的社会主义建设。
 - 社会主义现代化建设=改革=1978～今天
 - 广义的社会主义建设=1956～今天
-- 
+
+
 
 # 技巧5：毛泽东思想专题
 
@@ -278,3 +279,522 @@ description: 技巧班
       <code style="background-color:gainsboro;color:darkred">【口诀：战斗宝剑→战：统一战线；斗：武装斗争；宝：三大法宝；剑：党的建设】</code></td>
   </tr>
 </table>
+## 专题3：社会主义革命理论
+
+|                    |                                                              |
+| ------------------ | ------------------------------------------------------------ |
+| 时间               | 1949-1956 （新民主主义社会时期）<br/>既有社会主义因素——国营经济（工人阶级），<br/>又有非社会主义因素（个体、私营经济——农民、小资、民资）。 |
+| 目标               | 建立社会主义制度<br/>尤其体现在经济基础上：个体经济<font color=gray>*（比重最大，绝对优势的经济成分）*</font>→集体经济；私营经济→国营经济 |
+| 慢慢来             | ⑴1949-1952：<br/>✒恢复国民经济（增强国营经济力量，有意识的做一些引导过渡的事情）<br/>✒完成民主革命遗留任务（追缴国民党、土改★<font color=gray>*〈土改以后，主要矛盾发生变化——工人阶级与资产阶级的矛盾〉*</font>、反对封建婚姻）<br/>✒军事上：抗美援朝<br/>✒外交（3个方针）<br/>⑵ 1953：过渡时期总路线（一化三改）：一化——生产力；三改——生产关系<br/>⑶1953-1956：工业化（基本建立了比较完整独立的国民经济体系和工业化体系，解决了工业化从“无”到“有”的问题） |
+| 结果<br>（考过了） | A.**社会主义制度确立**，进入社会主义初级阶段<br/>B.消灭在中国延续几千年的封建剥削压迫制度，人民真正成为国家的主任<br/>C.实现了中华民族有史以来最为广泛而深刻的社会变革<br/>D.为实现中华民族伟大复兴莫定了根本政治前提和制度基础 |
+
+<span style="background-color: lavender">三大改造的总结</span>
+
+<table>
+  <tr>
+    <th></th>
+    <th>农业</th>
+    <th>手工业</th>
+    <th>资本主义工商业</th>
+  </tr>
+  <tr>
+    <td>目的<br></td>
+    <td colspan="2">个体经济→集体经济</td>
+    <td>私营经济→国营经济</td>
+  </tr>
+  <tr>
+    <td>方式</td>
+    <td colspan="2">合作化</td>
+    <td>和平赎买（国家有偿地将私营企业改为国营企业，将资本主义私有制改为社会主义公有制）<br>（让资本家在一定年限内从企业经营所得中获取一部分利润）<br></td>
+  </tr>
+  <tr>
+    <td>道路</td>
+    <td>互助合作</td>
+    <td>生产合作</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>社会主义萌芽性质</td>
+    <td>互助组<br></td>
+    <td>供销小组</td>
+    <td>初级国家资本主义（四马分肥）</td>
+  </tr>
+  <tr>
+    <td>半社会主义性质</td>
+    <td>初级合作社<br></td>
+    <td>供销合作社</td>
+    <td>个别行业公私合营（四马分肥）</td>
+  </tr>
+  <tr>
+    <td>完全社会主义性质</td>
+    <td>高级合作社<br></td>
+    <td>生产合作社</td>
+    <td>全行业公私合营（定股定息）</td>
+  </tr>
+</table>
+
+- 初级国家资本主义：委托加工、计划订货、统购包销、经销代销
+
+- 新民主主义社会（大杂烩）
+
+  - 经济上成分多样：个体经济、国营经济【公有制】、私营经济+ 合作社经济（过渡）、国家资本主义经济（过渡）
+
+  - >  新中国成立初期的经济成分：5 个。 
+    >
+    > 新中国成立初期的主要经济成分：3 个（ 国营经济、个体经济、资本主义经济）
+
+  - 阶级： 4颗星（工人阶级、农民阶级、民族资产阶级、城市小资产阶级）
+
+
+
+# 技巧6：邓三科专题
+
+⑴中国特色社会理论体系各自的地位和回答的问题
+
+|                    | 邓小平理论                                                   | “三个代表”                                                   | 科学发展观                                                   |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 地位               | 中特理论的开篇之作                                           | 中特理论的接续发展                                           | 中特理论的接续发展                                           |
+| 回答的问题         | 🔹初步回答“什么是社会主义（what）、怎样建设社会主义（how）”<br/>（首要的基本的理论问题） | 🔹创造性的回答“建设什么样的党、怎样建设党”<br>🔹进一步回答“什么是社会主义，怎样建设社会主义”<font color=gray>*（进一步回答邓，然后有自己特色，这叫接续）*</font> | 🔹创造性的回答“实现什么样的发展、怎样发展”<br>🔹进一步回答“什么是社会主义，怎样建设社会主义”<font color=gray>*（进一步回答邓，然后有自己特色，这叫接续）*</font> |
+| 实事求是的思想路线 | 解放思想、实事求是<br/>（邓论活的灵魂和精髓）                | 与时俱进                                                     | 求真务实                                                     |
+
+<span style="background-color: lavender">「补充关于实事求是思想路线」→马克思主义的精髓、思想路线的核心</span>
+
+>毛泽东：确立实事求是（革命时期听他的）
+>
+>邓小平：解放思想（希望大家同意改革）
+>
+>江泽民：与时俱进（下海先富起来）
+>
+>胡锦涛：求真务实（全面协调可持续的发展）
+
+<span style="background-color: lavender">⑵邓小平理论</span>
+
+①邓小平理论的形成条件
+
+- 和平与发展成为时代主题（时代背景）
+
+- 社会主义建设的经验教训（历史根据）
+
+- 改革开放和现代化建设的实践（现实依据）
+
+  - >「补充」习近平新时代中国特色社会主义思想形成条件
+    >a 时代背景：百年未有之大变局
+    >b 现实依据：新时代
+    >c 民族复兴关键时期
+    >社会主义建设的经验教训❌
+
+②<span style="background-color:lightsalmon">解放思想</span>、实事求是。这是邓小平理论<span style="background-color:lightsalmon">的灵魂和精髓</span>。
+
+③改革开放理论
+
+- 改革要坚持独立自主的**立足点**：
+- 改革是社会主义制度自我完善和发展（<span style="background-color:lightsalmon">改革的性质</span>）
+- 改革是从根本上改变束缚生产力发展的经济体制
+  - <font color=red>（根本——体制变革✅；根本——制度变革❌）</font>
+- 改革是中国的第二次革命，是新时期最鲜明的特点
+- 开放也是改革，改革是社会发展的直接动力
+
+> 注意：社会主义也有矛盾（矛盾普遍性）。但社会主义社会的基本矛盾还是生产力——生产关系的矛盾运动。但是是非对抗性的，所以可以在社会主义制度内通过改革去解決。
+
+④社会主义本质理论。
+
+⑤市场经济理论。计划和市场作为method，不是制度标志，可以跟任何制度结合。
+
+- 计划和市场可以结合，但计划经济和市场经济不可以结合，因为体制决定了唯一。
+
+
+
+
+# 技巧7：习专题
+
+
+
+## ⒈习思想（背景3、内容what how、评价）
+
+<span style="background-color: lavender">⑴习近平新时代中国特色社会主义思想创立的社会历史条件</span>★★★
+
+①中国特色社会主义进入新时代。
+
+- **新的历史方位：新时代**。（特别注意中国特色社会主义进入<font color=red>**新的发展阶段，新的历史起点，当代中国发展的新阶段新特征**</font>。<span style="background-color: lightcyan;color:green">**不可以说新的历史阶段**</span>，因为我们还是社会主义初级阶段）
+- **新的主要矛盾**：人民日益增长的美好生活需要和不平衡不充分发展之间的矛盾。但<span style="background-color: lightcyan;color:green">**没有变的是：国情、历史阶段和世界上最大的发展中国家的国际地位**</span>。
+
+②**世界正在经历百年未有之大变局**（新表述）。世界百年未有之大变局正在加速演变；在世界大变局中，中国成为世界格局演变的主要推动力量；大变局带来大挑战，也带来大机遇。
+
+③**中华民族伟大复兴正处于关键时期**。中国共产党是实现中华民族伟大复兴的<font color=red>**根本保证（keyword）**</font>；中华优秀传统文化是<font color=red>**中华民族的根和魂（keyword）**</font>，是中国特色社会主义植根的文化沃土。
+
+<span style="background-color: lavender">⑵习近平新时代中国特色社会主义思想</span>（**理论与实践的统一**，<font color=red>核心要义（考过了）</font>是坚持和发展中国特色社会主义，<font color=red>最重要内容（keyword）</font>是“十个明确”）★★★
+
+- <span style="background-color: lightcyan;color:green">十个明确</span>：指导思想层面表述，回答新时代坚持和发展什么样的中国特色社会主义的问题（what）
+- <span style="background-color: lightcyan;color:green">十四个坚持</span>：行动纲领层面的表述，回答新时代怎样坚持和发展中国特色社会主义的问题（how）
+
+<span style="background-color: lavender">⑶评价</span>：
+
+- **当代中国马克思主义、21世纪马克思主义**（指导思想、集体智慧结晶、开辟马克思主义新境界、开辟中国特色社会主义新境界、马克思主义中国化最新成果、国家政治生活和社会生活的根本指针）
+- 中华文化、中国精神的时代精华
+- **马克思主义中国化新的飞跃**（为新时代坚持和发展中国特色社会主义提供了根本指引、为新时代治国理政提供了基本遵循、为全面从严治党、把党建设成为中国特色社会主义事业的坚强领导核心提供了强大思想武器）
+
+**（党的二十大报告）评价的最新表述**：★★★
+
+- 习近平新时代中国特色社会主义思想，致力于为中国人民谋幸福、为中华民族谋复兴，致力于为人类谋进步、为世界谋大同，<font color=red>科学回答中国之问、世界之问、人民之问、时代之问</font>，是<font color=red>当代中国马克思主义、二十一世纪马克思主义，是中华文化和中国精神的时代精华</font>。（全选的概率大，如果要出<span style="background-color: lightcyan;color:green">干扰项，可以出成“是对中国革命、建设、改革的经验总结、科学指南”之类</span>的）
+- 当习近平总书记以马克思主义政治家、思想家、战略家的深刻洞察力、敏锐判断力、理论创造力，准确把握中国特色社会主义的历史新方位、时代新变化、实践新要求，<font color=red>用马克思主义之“矢”去射新时代中国之“的”</font>，科学回答了一系列重大理论和实践课题。
+- 科学回答中国之问，推动党和国家事业取得历史性成就、发生历史性变革。
+
+## ⒉中国梦（民族复兴、建成强国2050）——路径战略安排新征程（第一个15年：基本实现社会主义现代化，第二个15年：建成社会主义现代化强国）
+
+<span style="background-color: lavender">step 1✏2020-2035，基本实现社会主义现代化</span>
+
+<u>二十大报告原文</u>：到2035年，我国发展的总体目标是（PS：红色标记部分要特别注意！）：
+
+- <font color=red>经济实力、科技实力、综合国力**<u>大幅跃升</u>**，**<u>人均国内生产总值</u>**迈上新的大台阶，**<u>达到中等发达国家水平；实现高水平科技自立白强，进入创新型国家前列</u>**；</font> *（之前的表述是：关键核心技术实现重大突破，济身创新型国家前列）*
+- <font color=red>**建成现代化经济体系，形成新发展格局**</font>，**<u>基本实现</u>**新型工业化、信息化、城镇化、农业现代化；
+- **<u>基本实现</u>**国家治理体系和治理能力现代化，全过程人民民主制度更加健，基本建成法治国家、法治政府、法治社会；
+- <font color=red>建成教育强国、科技强国、人才强国、文化强国、体育强国、健康中国，国家文化软实力显著增强</font>；
+- 人民生活更加幸福美好，居民人均可支配收人再上新台阶，中等收人群体比重明显提高，基本公共服务实现均等化，农村基本具备现代生活条件，社会保持长期稳定，<font color=red>人的全面发展</font>*（新说法）*、<font color=red>全体人民共同富裕取得更为明显的实质性进展</font>；
+- 广泛形成绿色生产生活方式，碳排放达峰后稳中有降，<font color=red>生态环境根本好转，美丽中国目标基本实现</font>；
+- 国家安全体系和能力全面加强，基本实现国防和军队现代化。
+
+> 关键词：基本实现…更加…显著提高…
+
+<span style="background-color: lavender">step 2✏2035-21世纪中叶，建成社会主义现代化强国</span>
+
+关键词：高度…强国…建成…
+
+## ⒊五位一体总布局（内部）  ⒋四个全面战略布局（大方向）
+
+<span style="background-color: lavender">⑴马克思主义中国化</span>
+
+参考——技巧4：马克思主义中国化两大理论成果对比
+
+<span style="background-color: lavender">⑵新发展阶段</span>
+
+①是什么——注意一下说法正误即可
+
+- ✅新的发展阶段
+- ❌新的历史阶段
+- ✅社会主义初级阶段中的一个阶段
+- ✅经过几十年积累、站到了新的起点上的一个阶段。
+- ✅我们党带领人民迎来从站起来、富起来到强起来历史性跨越的新阶段。
+- ✅我国社会主义发展进程中的一个重要阶段。
+
+②为什么——横向单选选对应词+纵向多选（四选三）
+
+- A理论依据——马克思主义
+- B历史依据——历史
+- C现实依据——物质基础
+
+<span style="background-color: lavender">⑶新发展理念</span>
+
+①是什么：创新、协调、绿色、开放、共享——<font color=red>各自的Keywords</font>
+
+- <span style="background-color: lightsalmon">创**新**</span>是引领发展<span style="background-color: lightsalmon">第一**动**力</span>/摆在国家发展全局的<span style="background-color: lightsalmon">核心位置</span>/引领经济新常态的<span style="background-color: lightsalmon">根本之策</span>。<code style="background-color:gainsboro;color:darkred">【口诀：动心】</code>
+- <span style="background-color: lightsalmon">**协**调</span>是持续<span style="background-color: lightsalmon">健康发展的内在要**求**</span>。<code style="background-color:gainsboro;color:darkred">【口诀：球鞋】</code>
+- <span style="background-color: lightsalmon">**绿**色</span>是<span style="background-color: lightsalmon">**永**续发展</span>的必要条件和人民对美好生活追求的重要体现。<code style="background-color:gainsboro;color:darkred">【口诀：诅咒你永远带绿帽子】</code>
+- <span style="background-color: lightsalmon">**开**放</span>是国家繁荣发展的<span style="background-color: lightsalmon">必由之**路**/根本出**路**</span>。<code style="background-color:gainsboro;color:darkred">【口诀：开路】</code>
+- <span style="background-color: lightsalmon">**共**享</span>是中国特色社会主义的<span style="background-color: lightsalmon">本质要**求**</span>。<code style="background-color:gainsboro;color:darkred">【口诀：供求】</code>
+
+②为什么——<font color=red>Keywords</font>
+
+- <span style="background-color: lightsalmon">新发展理念——治本之策；战略指引</span>。
+- 新发展理念集中体现了我国发展思路、发展方向、发展着力点，具有很强的战略性、纲领性、引领性。
+
+<span style="background-color: lavender">⑷构建新发展格局</span>
+
+①是什么：国内大循环为主体、国内国际双循环相互促进
+
+②为什么——生产上进行产业结构转型升级，更加符合人民的需要
+
+注意<span style="background-color:lightsalmon">Keywords：战略决策、战略抉择、战略性布局和先手棋、重大举措</span>
+
+③怎么做——多选
+
+- A扭住扩大内需战略基点，畅通国民经济循环
+- B大力推动科技创新，打造经济发展新动能
+- C发挥全面深化改革在构建新发展格局中的关键作用
+
+<span style="background-color: lavender">⑸推动高质量发展</span>
+
+①20大相关Keywords
+
+<span style="background-color:lightsalmon">高质量发展</span>是全面建设社会主义现代化国家的<span style="background-color:lightsalmon">首要任务</span>。发展是党执政兴国的第一要务。
+
+<table>
+  <tr>
+      <td><span style="background-color:greenyellow">教</span>育、<span style="background-color:greenyellow">科</span>技、<span style="background-color:greenyellow">人才</span></td>
+      <td rowspan="4">是全面建设社会主义<span style="background-color:violet">现代</span>化国家的</td>
+      <td>基础性、战略性<span style="background-color:aqua">支撑</span></td>
+  </tr>
+  <tr>
+      <td>人<span style="background-color:tan">民</span>民主（是社会主义的生命）</td>
+      <td>应有之<span style="background-color:tan">义</span></td>
+  </tr>
+  <tr>
+      <td><span style="background-color:pink">高</span>质量发展</td>
+      <td><span style="background-color:pink">首</span>要任务</td>
+  </tr>
+  <tr>
+      <td><span style="background-color:lightskyblue">尊重</span>自然、顺应自然、保护自然</td>
+      <td>内在<span style="background-color:lightskyblue">要求</span></td>
+  </tr>
+</table>
+<code style="background-color:gainsboro;color:darkred">【口诀：现代科教人才支撑高手，要求尊重民义】</code> 在<span style="background-color:violet">现代</span>，只有<span style="background-color:greenyellow">科教人才</span>才能<span style="background-color:aqua">自称</span><span style="background-color:pink">高手</span>，但他们也被<span style="background-color:lightskyblue">要求尊重</span><span style="background-color:tan">民意</span>
+
+②常规 Keywords
+
+- 经济社会发展要以推动高<span style="background-color: lightsalmon">质</span>量发展为<span style="background-color: lightsalmon">主</span>题。<code style="background-color:gainsboro;color:darkred">【口诀：蜘蛛】</code>
+- 深化<span style="background-color: lightsalmon">供</span>给侧结构性改革是推动高质量发展的<span style="background-color: lightsalmon">主</span>线<code style="background-color:gainsboro;color:darkred">【口诀：公主】</code>
+
+<span style="background-color: lavender">⑹建设现代化经济体系</span>
+
+①注意时态：**还没建成**——建成2035年
+
+②<span style="background-color: lightsalmon">Keywords</span>
+
+- A大力发展<span style="background-color: lightsalmon">实体经济</span>，筑牢现代化经济体系的<span style="background-color: lightsalmon">坚实基础</span>。
+- B必须把发展经济的<span style="background-color: lightsalmon">着力点放在实体经济上</span>，把<span style="background-color: lightsalmon">提高供给体系质量作为主攻方向</span>。
+- C实施<span style="background-color: lightsalmon">创新驱动发展</span>战略，强化现代化经济体系的<span style="background-color: lightsalmon">战略支撑</span>。
+- D实施<span style="background-color: lightsalmon">乡村振兴</span>战略，秀实现代化经济体系的<span style="background-color: lightsalmon">重要基础</span>。
+
+<span style="background-color: lavender">⑺创新——keywords</span>
+
+- A引领发展的<span style="background-color: lightsalmon">第一动力</span>
+- B建设现代化经济体系的<span style="background-color: lightsalmon">战略支撑</span>
+- C应对环境变化、增强发展动力、把握发展主动权，更好引领新常态的<span style="background-color: lightsalmon">根本之策</span>
+- D<span style="background-color: lightsalmon">实现高水平的自立自强</span>，既是构建新发展格局的<span style="background-color: lightsalmon">最本质特征</span>，也是中国特色自主创新道路与时俱进的<span style="background-color: lightsalmon">最新要求</span>。
+- E把创新摆在国家发展全局的<span style="background-color: lightsalmon">核心位置</span>
+- F把<span style="background-color: lightsalmon">重要领域的科技创新</span>摆在<span style="background-color: lightsalmon">更加突出</span>的地位
+
+<span style="background-color: lavender">⑻处理好政府与市场的关系</span>（市场资源配置、政府作用、基本经济制度）
+
+①为什么——注意概念辨析
+
+- A **社会主义市场经济**的重要组成部分、我国经济社会发展的重要基础——**公有制经济和非公有制经济**
+- B **社会主义经济、社会主义经济制度**——**公有制**
+
+②如何处理政府与市场的关系
+
+- A **市场——决定性作用** <span style="background-color: lightcyan;color:green">❌全部作用</span>
+- B **政府——更好发挥作用** <span style="background-color: lightcyan;color:green">❌更多发挥</span>
+
+③具体处理要求
+
+- A 激发**各类市场主体**活力——**公有制+非公有制**
+- B **两个毫不动摇**（注意动宾搭配）
+  - a 巩固和发展——公有制经济
+  - b 鼓励、支持和引导——非公有制经济发展
+
+<span style="background-color: lavender">⑼全面深化改革/改革开放 keywords</span>
+
+- A 改革是<span style="background-color: lightsalmon">社会主义制度的自我完善与发展</span>
+- B 改革是中国人民和中华民族发展史上一次<span style="background-color: lightsalmon">伟大革命</span>
+- C 改革开放是决定当代中国命运的<span style="background-color: lightsalmon">关键一招</span>，也是决定实现“两个一百年”奋斗目标、实现中华民族伟大复兴的<span style="background-color: lightsalmon">关键一招</span>。
+
+<span style="background-color: lavender">⑽开放型经济与全面对外开放</span>
+
+- A 开放也是改革
+- B 全面开放是实现国家繁荣富强的根本出路
+
+<span style="background-color: lavender">⑾内外保证</span>（外交、国家安全、一国两制、军队）
+
+<span style="background-color: lavender">⑿根本保证和最大制度优势</span>（党、党建——自我革命）
+
+
+# 技巧8：中特速成背诵专题（双选、三选特辑）
+
+**⑴党的十八大以来**：
+
+Ⓐ取得了<font color=red>全方位的、开创性的历史性成就</font>；
+
+Ⓑ发生了<font color=red>深层次的、根本性的历史变革</font>。
+
+<hr>
+
+**⑵中国特色社会主义进入新时代，是**：
+
+Ⓐ新的历史<font color=red>方位</font>
+
+Ⓑ新的历史<font color=red>起点</font>
+
+Ⓒ中国特色社会主义进入<font color=red>新的发展阶段</font>（新的历史阶段❌）
+
+<hr>
+
+**⑶我国社会主要矛盾已经转化为人民日益增长的美好生活需要和不平衡不充分发展之间的矛盾。<font color=red>依据是</font>**：
+
+Ⓐ经过改革开放40年的发展，我国社会生产力水平总体上显著提高
+
+Ⓑ人民对美好生活的向往更加强烈，不仅对物质文化生活提出了更高要求，其他方面要求日益增长
+
+Ⓒ影响满足人们美好生活需要的因素很多，但主要是发展的不平衡不充分的问题
+
+<hr>
+
+**⑷我国社会主要矛盾的转化**：
+
+Ⓐ<font color=red>没有改变</font>对<font color=red>我国</font>社会主义所处<font color=red>历史阶段</font>的判断;
+
+Ⓑ<font color=red>没有改变</font>我国的<font color=red>国际地位</font>。
+
+<hr>
+
+**⑸中国特色社会主义进入新时代的意义**：
+
+Ⓐ中华民族<font color=red>迎来了</font>从站起来、富起来到强起来的伟大飞跃，<font color=red>迎来了</font>民族复兴的光明前景。
+
+Ⓑ<font color=red>社会主义在21世纪中国</font>焕发出强大生机活力，在世界上高举起了中国特色社会主义旗帜。
+
+Ⓒ中国特色社会主义道路、理论、制度、文化不断发展，为世界贡献了<font color=red>中国智慧和中国方案</font>。
+
+<hr>
+
+**⑹坚持和发展中国特色社会主义**：
+
+Ⓐ是改革开放以来我们党全部理论和实践的鲜明主题
+
+Ⓑ习近平中国特色社会主义思想的核心要义
+
+<hr>
+
+**⑺习近平新时代中国特色社会主义思想**：
+
+Ⓐ十个明确：指导思想层面表述，<font color=red>回答新时代坚持和发展什么样的中国特色社会主义的问题</font>。
+
+Ⓑ十四个坚持：行动纲领层面的表述，<font color=red>回答新时代怎样坚持和发展中国特色社会主义的问题</font>。
+
+<code style="background-color:gainsboro;color:darkred">【口诀：路易（义）十四】</code>
+
+<hr>
+
+**⑻中国梦的科学内涵**：
+
+Ⓐ<font color=red>本质是</font>国家富强、民族振兴、人民幸福
+
+Ⓑ<font color=red>最大特点是</font>把国家、民族、个人作为一个命运共同体的家国天下情怀
+
+Ⓒ中国梦是中华民族团结奋斗的<font color=red>最大公约数</font>
+
+Ⓓ中国梦的<font color=red>主体、深厚源泉和根本归宿</font>是人民
+
+<hr>
+
+**⑼建设社会主义现代化国家新征程（2个15年）**
+
+Ⓐ2020-2035，在全面建成小康社会基础上，基本实现社会主义现代化
+
+Ⓑ2035-本世纪中叶，在基本实现现代化基础上，把我国建成富强民主文明和谐美丽的社会主义现代化强国
+
+<hr>
+
+⑽进入新发展阶段、贯彻新发展理念、构建新发展格局是由我国经济社会发展的**理论逻辑、历史逻辑、现实逻辑**决定的。
+
+<hr>
+
+**⑾新发展阶段**：
+
+Ⓐ是社会主义初级阶段中的一个阶段
+
+Ⓑ是我国社会主义发展进程中的一个重要阶段
+
+Ⓒ既是社会主义初级阶段我国发展的要求，也是我国社会主义从初级阶段向更高阶段迈进的要求
+
+Ⓓ是社会主义初级阶段经过几十年积累、站到了新的起点上的一个阶段
+
+<hr>
+
+**⑿新发展阶段、新发展理念、新发展格局的关系**：
+
+Ⓐ把握新发展阶段是贯彻新发展理念、构建新发展格局的现实依据
+
+Ⓑ贯彻新发展理念为把握新发展阶段、构建新发展格局提供了行动指南
+
+Ⓒ构建新发展格局则是应对新发展阶段机遇和挑战、贯彻新发展理念的战略选择
+
+<hr>
+
+**⒀公有制为主体、多种所有制经济共同发展，按劳分配为主体、多种分配方式并存，社会主义市场经济体制等社会主义基本经济制度**
+
+Ⓐ既体现了社会主义制度优越性
+
+Ⓑ同我国社会主义初级阶段社会生产力发展水平相适应
+
+Ⓒ是党和人民的伟大创造
+
+<hr>
+
+**⒁全面深化改革的内在要求与推进改革的重要方法**：
+
+Ⓐ注重系统性
+
+Ⓑ注重整体性
+
+Ⓒ注重协同性
+
+<hr>
+
+**⒂全面准确贯彻“一国两制”方针**：
+
+Ⓐ必须始终依照宪法和基本法办事
+
+Ⓑ必须始终聚焦发展这个第一要务
+
+Ⓒ必须始终维护和谐稳定的社会环境
+
+<hr>
+
+**⒃深化依法治国实践的重点任务**：
+
+Ⓐ推进中国特色社会主义法治体系建设
+
+Ⓑ坚持依法治国、依法执政、依法行政共同推进，坚持法治国家、法治政府、法治社会一体建设
+
+Ⓒ推进科学立法、严格执法、公正司法、全民守法
+
+<hr>
+
+**⒄坚持党的集中统一领导是党的政治建设首要任务，因为**：
+
+Ⓐ旗帜鲜明讲政治是我们党作为马克思主义政党的根本要求
+
+Ⓑ党的政治建设是党的根本性建设，决定党的建设方向和效果
+
+Ⓒ注重抓党的政治建设是党的十八大以来全面从严治党的成功经验
+
+<hr>
+
+**⒅新时代党的建设总要求**：
+
+Ⓐ<font color=red>根本方针</font>是党要管党，全面从严治党。（全面是基础，严是关键，治是要害）
+
+Ⓑ<font color=red>主线</font>是加强党的长期执政能力建设、先进性和纯洁性建设
+
+Ⓒ以党的政治建设为统领，以坚定理想信念宗旨为根基，全面推进党的各项建设
+
+<hr>
+
+**⒆建设世界一流军队**：
+
+Ⓐ<font color=red>牢固树立战斗力这个唯一的根本标准</font>
+
+Ⓑ坚持政治建军、改革强军、科技兴军、依法治军（其中，<font color=red>政治建军是人民军队的立军之本：改革是我军发展壮大、制胜未来的关键一招;依法治军、从严治军是党建军治军的基本方略</font>）
+
+Ⓒ构建中国特色现代化军事力量体系
+
+<hr>
+
+**⒇党的领导是中国特色社会主义最本质的特征**：
+
+Ⓐ由科学社会主义的<font color=red>理论逻辑</font>所决定
+
+Ⓑ由中国特色社会主义产生与发展的<font color=red>历史逻辑</font>所决定
+
+Ⓒ由中国特色社会主义迈向新征程的<font color=red>实践逻辑</font>所决定
+
+<hr>
+
+**(21)党的领导是中国特色社会主义制度的最大优势**：
+
+Ⓐ党是<font color=red>中国特色社会主义制度的创建者</font>
+
+Ⓑ党的领导是充分<font color=red>发挥中国特色社会主义制度优势的根本保障</font>
+
+Ⓒ党的自身优势是<font color=red>中国特色社会主义制度优势的主要来源</font>
+
