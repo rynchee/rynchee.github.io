@@ -157,7 +157,7 @@ description: 技巧班
 <table>
   <tr>
     <td>谁领导<br></td>
-    <td colspan="4">无产阶级及其政党中共。实现领导权：<br>2个条件：率领被领导者向共同敌人做坚决斗争<br>给被领导者以物质福利或者至少不损害其利益并进行政治教育<br>1个关键：建立以工农联盟为基础的广泛的统一战线</th>
+    <td colspan="4">无产阶级及其政党中共。实现领导权：<br>2个条件：率领被领导者向共同敌人做坚决斗争<br>给被领导者以物质福利或者至少不损害其利益并进行政治教育<br>1个关键：建立以工农联盟为基础的广泛的统一战线</td>
   </tr>
   <tr>
     <td rowspan="3">反对谁</td>
@@ -298,6 +298,8 @@ description: 技巧班
 | 目标               | 建立社会主义制度<br/>尤其体现在经济基础上：个体经济<font color=gray>*（比重最大，绝对优势的经济成分）*</font>→集体经济；私营经济→国营经济 |
 | 慢慢来             | ⑴1949-1952：<br/>✒恢复国民经济（增强国营经济力量，有意识的做一些引导过渡的事情）<br/>✒完成民主革命遗留任务（追缴国民党、土改★<font color=gray>*〈土改以后，主要矛盾发生变化——工人阶级与资产阶级的矛盾〉*</font>、反对封建婚姻）<br/>✒军事上：抗美援朝<br/>✒外交（3个方针）<br/>⑵ 1953：过渡时期总路线（一化三改）：一化——生产力；三改——生产关系<br/>⑶1953-1956：工业化（基本建立了比较完整独立的国民经济体系和工业化体系，解决了工业化从“无”到“有”的问题） |
 | 结果<br>（考过了） | A.<b>社会主义制度确立</b>，进入社会主义初级阶段<br/>B.消灭在中国延续几千年的封建剥削压迫制度，人民真正成为国家的主任<br/>C.实现了中华民族有史以来最为广泛而深刻的社会变革<br/>D.为实现中华民族伟大复兴莫定了根本政治前提和制度基础 |
+
+
 
 <span style="background-color: lavender">三大改造的总结</span>
 
@@ -480,6 +482,8 @@ description: 技巧班
 
 参考——技巧4：马克思主义中国化两大理论成果对比
 
+
+
 <span style="background-color: lavender">⑵新发展阶段</span>
 
 ①是什么——注意一下说法正误即可
@@ -491,11 +495,15 @@ description: 技巧班
 - ✅我们党带领人民迎来从站起来、富起来到强起来历史性跨越的新阶段。
 - ✅我国社会主义发展进程中的一个重要阶段。
 
+
+
 ②为什么——横向单选选对应词+纵向多选（四选三）
 
 - A理论依据——马克思主义
 - B历史依据——历史
 - C现实依据——物质基础
+
+
 
 <span style="background-color: lavender">⑶新发展理念</span>
 
@@ -512,6 +520,8 @@ description: 技巧班
 - <span style="background-color: lightsalmon">新发展理念——治本之策；战略指引</span>。
 - 新发展理念集中体现了我国发展思路、发展方向、发展着力点，具有很强的战略性、纲领性、引领性。
 
+
+
 <span style="background-color: lavender">⑷构建新发展格局</span>
 
 ①是什么：国内大循环为主体、国内国际双循环相互促进
@@ -525,6 +535,8 @@ description: 技巧班
 - A扭住扩大内需战略基点，畅通国民经济循环
 - B大力推动科技创新，打造经济发展新动能
 - C发挥全面深化改革在构建新发展格局中的关键作用
+
+
 
 <span style="background-color: lavender">⑸推动高质量发展</span>
 
@@ -551,6 +563,8 @@ description: 技巧班
       <td>内在<span style="background-color:lightskyblue">要求</span></td>
   </tr>
 </table>
+
+
 <code style="background-color:gainsboro;color:darkred">【口诀：现代科教人才支撑高手，要求尊重民义】</code> 在<span style="background-color:violet">现代</span>，只有<span style="background-color:greenyellow">科教人才</span>才能<span style="background-color:aqua">自称</span><span style="background-color:pink">高手</span>，但他们也被<span style="background-color:lightskyblue">要求尊重</span><span style="background-color:tan">民意</span>
 
 ②常规 Keywords
@@ -813,3 +827,4 @@ description: 技巧班
 
 Ⓒ党的自身优势是<font color=red>中国特色社会主义制度优势的主要来源</font>
 
+12
