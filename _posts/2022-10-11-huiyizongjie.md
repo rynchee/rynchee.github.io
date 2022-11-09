@@ -349,6 +349,7 @@ description: 会议总结
 - 中共在政治上走向成熟——遵义会议
 - 解决了军事问题和组织问题。——遵义会议<code style="background-color:gainsboro;color:darkred">【口诀：遵（遵义）君（军事）旨（组织）】</code>
 - 对社会主义初级阶段主要矛盾做出规范表述——十一届六中全会
+- 第一次提出建设有中国特色的社会主义的命题——中共十二大 <code style="background-color:gainsboro;color:darkred">【口诀：十二生肖里有蛇（设）】</code>
 - 阐述社会主义初级阶段基本纲领——中共十五大<code style="background-color:gainsboro;color:darkred">【口诀：零（领）食物（十五）】</code>
 - 阐述社会主义初级阶段理论和党的基本路线——中共十三大<code style="background-color:gainsboro;color:darkred">【口诀：三鹿】</code>
 - 提出反帝反封的民主革命纲领——中共二大<code style="background-color:gainsboro;color:darkred">【口诀：犯（反帝反封）二】</code>
