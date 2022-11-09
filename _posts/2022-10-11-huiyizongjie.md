@@ -350,7 +350,7 @@ description: 会议总结
 - 解决了军事问题和组织问题。——遵义会议<code style="background-color:gainsboro;color:darkred">【口诀：遵（遵义）君（军事）旨（组织）】</code>
 - 对社会主义初级阶段主要矛盾做出规范表述——十一届六中全会
 - 阐述社会主义初级阶段基本纲领——中共十五大<code style="background-color:gainsboro;color:darkred">【口诀：零（领）食物（十五）】</code>
-- 阐述社会主义初级阶段理论和党的基本路线——中共十三大<code style="background-color:gainsboro;color:darkred">【口诀：2B→2指两条，B指13】</code>
+- 阐述社会主义初级阶段理论和党的基本路线——中共十三大<code style="background-color:gainsboro;color:darkred">【口诀：三鹿】</code>
 - 提出反帝反封的民主革命纲领——中共二大<code style="background-color:gainsboro;color:darkred">【口诀：犯（反帝反封）二】</code>
 - 第一次国共合作的标志——国民党一大
 - 科学概括毛泽东思想——中共七大、十一届六中全会<code style="background-color:gainsboro;color:darkred">【口诀：毛→党是七月→七：七大；11届6中，1+6=7】</code>
