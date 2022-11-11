@@ -4,7 +4,7 @@ layout: post
 
 title: 史纲错题
 
-date: 2022-09-01
+date: 2022-09-04
 
 categories: 错题
 
