@@ -638,8 +638,8 @@ D.调和矛盾双方从而更好地解决矛盾
 <details>
 <summary>点击查看答案</summary>
     <del>A</del>       C<br><br>
-B.<span style="background-color: lightcyan;color:green"><del>改变规律<del></span>从而更好地利用规律<br>
-D.<span style="background-color: lightcyan;color:green"><del>调和矛盾<del></span>双方从而更好地解决矛盾
+B.<span style="background-color: lightcyan;color:green"><del>改变规律</del></span>从而更好地利用规律<br>
+D.<span style="background-color: lightcyan;color:green"><del>调和矛盾</del></span>双方从而更好地解决矛盾
 </details>
 
 <hr>
@@ -1045,4 +1045,6 @@ ABC选项里都有“”历史“”两个字，B没有。B是战略思维能力
 </details>
 
 <hr>
+
+
 
