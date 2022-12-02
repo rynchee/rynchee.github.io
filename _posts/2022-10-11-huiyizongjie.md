@@ -140,7 +140,7 @@ description: 会议总结
 ⑴毛泽东在会上作题为<u><font color=blue>《论联合政府》</font></u>的书面报告和《愚公移山》的闭幕词。<br>
 ⑵将以毛泽东为主要代表的中国共产党人把马克思列宁主义基本原理同中国具体实际相结合所创造的理论成果，<u><font color=blue>正式命名为毛泽东思想</font></u>，并将毛泽东思想规定为党的一切工作的方针，实现了<u><font color=blue>马克思主义中国化的第一次历史性飞跃</font></u>。<br>
 ⑶<u><font color=blue>正式将毛泽东思想确立为党的指导思想并写入党章</font></u>，中国共产党在毛泽东思想的基础上，达到空前的团结和统一<br>
-⑷把党在长期奋斗中形成的优良作风概括为<u><font color=blue>三大作风</font></u>：理论和实践相结合的作风，和人民群众密切联系的作风，自我批评的作风。<br>
+⑷把党在长期奋斗中形成的优良作风概括为<u><font color=blue>三大作<span style="background-color:yellow">风</span></font></u>：理论和<span style="background-color:yellow">实</span>践相结合的作风，和<span style="background-color:yellow">人</span>民群众密切联系的作风，自我<span style="background-color:yellow">批</span>评的作风。  <code style="background-color:gainsboro;color:darkred">口诀：疯批是（实）人</code><br>
 ⑸制定了党的<u><font color=blue>政治路线</font></u>，即“放手群众，壮大人民力量，在我党的领导下，打败日本侵略者，解放全国人民，建立一个新民主主义的中国。
 </td>
 </tr>
@@ -215,7 +215,7 @@ description: 会议总结
 ⑴《决议》从根本上否定了“文化大革命”的错误理论和实践，对新中国成立以来的重大历史事件和重要历史人物作出了基本结论。<br>
 ⑵对毛泽东和毛泽东思想的历史地位作出了<u><font color=blue>科学的、实事求是的评价</font></u><br>
 ⑶《决议》对党的十一届三中全会以来逐步确立的适合中国情况的建设社会主义现代化强国的道路，从十个方面作了概括，<u><font color=blue>实质上初步提出了在中国建设什么样的社会主义和怎样建设社会主义的问题</font></u><br>
-⑷<u><font color=blue>指出毛泽东思想活的灵魂</font></u>：实事求是、群众路线、独立自主。<br>
+⑷<u><font color=blue>指出毛泽东思想活的灵魂</font></u>：实事求<span style="background-color:yellow">是</span>、<span style="background-color:yellow">群</span>众路线、独立自<span style="background-color:yellow">主</span>。  <code style="background-color:gainsboro;color:darkred">口诀：群主是（群的）灵魂</code><br>
 ⑸对我国社会<u><font color=blue>主要矛盾</font></u>作了科学表述，即我国所要解决的主要矛盾是人民日益增长的物质文化需要同落后的社会生产之间的矛盾。<br>
 ⑹分清了是非，纠正了“左”“右”两方面的错误观点，统一了全党思想。<u><font color=blue>标志着党和国家在指导思想上拨乱反正的胜利完成</font></u>。<br>
 ⑺根据新的实际和发展要求实行改革开放、确立中国社会主义现代化建设正确道路这两个相互联系的重大历史课题，充分体现出以邓小平同志为核心的中共中央领导集体的远见卓识和政治上的成熟。<br>
