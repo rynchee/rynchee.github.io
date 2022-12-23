@@ -542,7 +542,9 @@ description: 技巧班
 
 ①20大相关Keywords
 
-<span style="background-color:lightsalmon">高质量发展</span>是全面建设社会主义现代化国家的<span style="background-color:lightsalmon">首要任务</span>。发展是党执政兴国的第一要务。
+<span style="background-color:lightsalmon">高质量发展</span>是全面建设社会主义现代化国家的<span style="background-color:lightsalmon">首要任务</span>。发展是党执政兴国的第一要务。<code style="background-color:gainsboro;color:darkred">【口诀：高手】</code>
+
+<span style="background-color:lightsalmon">高质量发展</span>是十四五时期<span style="background-color:lightsalmon">经济</span>发展的<span style="background-color:lightsalmon">主题</span>。发展是党执政兴国的第一要务。<code style="background-color:gainsboro;color:darkred">【口诀：经济提高】</code>
 
 <table>
   <tr>
@@ -563,14 +565,41 @@ description: 技巧班
       <td>内在<span style="background-color:lightskyblue">要求</span></td>
   </tr>
 </table>
-
-
-<code style="background-color:gainsboro;color:darkred">【口诀：现代科教人才支撑高手，要求尊重民义】</code> 在<span style="background-color:violet">现代</span>，只有<span style="background-color:greenyellow">科教人才</span>才能<span style="background-color:aqua">自称</span><span style="background-color:pink">高手</span>，但他们也被<span style="background-color:lightskyblue">要求尊重</span><span style="background-color:tan">民意</span>
+<code style="background-color:gainsboro;color:darkred">【口诀：现代科教人才自称高手，要求尊重民义】</code> 在<span style="background-color:violet">现代</span>，只有<span style="background-color:greenyellow">科教人才</span>才能<span style="background-color:aqua">自称</span><span style="background-color:pink">高手</span>，但他们也被<span style="background-color:lightskyblue">要求尊重</span><span style="background-color:tan">民意</span>
 
 ②常规 Keywords
 
-- 经济社会发展要以推动高<span style="background-color: lightsalmon">质</span>量发展为<span style="background-color: lightsalmon">主</span>题。<code style="background-color:gainsboro;color:darkred">【口诀：蜘蛛】</code>
-- 深化<span style="background-color: lightsalmon">供</span>给侧结构性改革是推动高质量发展的<span style="background-color: lightsalmon">主</span>线<code style="background-color:gainsboro;color:darkred">【口诀：公主】</code>
+- <b>习经济思想</b>
+
+| 内容                                                         | 重要性                                                       | 助记               |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------ |
+| 加强<span style="background-color:yellow">党</span>对经济工作的全面领导 | <span style="background-color:yellow">根本保证</span>        | 党——根本保证       |
+| 坚持以<span style="background-color:yellow">人民</span>为中心的发展思想 | <span style="background-color:yellow">根本立场</span>        | 人民——根本立场     |
+| 坚持和完善社会主义基本经济<span style="background-color:yellow">制度</span> | <span style="background-color:yellow">制度</span>基础        | 制度——制度         |
+| 坚持问题导向部署实施国家重大发展<span style="background-color:yellow">战略</span> | <span style="background-color:yellow">战略</span>举措        | 战略——战略         |
+| 进入新发展阶<span style="background-color:khaki">段</span>   | 历史方<span style="background-color:khaki">位</span>         | 段位               |
+| 坚持新发展理<span style="background-color:khaki">念</span>   | 指<span style="background-color:khaki">导</span>原则         | 念叨(导)           |
+| 构建新发展<span style="background-color:khaki">格</span>局   | 明确了我国经济现代化的<span style="background-color:khaki">路</span>径选择 | 路把城市分成不同格 |
+| 推动<span style="background-color:khaki">高</span>质量发展   | 鲜明主题<br>是十四五时期<span style="background-color:lightsalmon">经济</span>发展的<span style="background-color:lightsalmon">主题</span>。发展是党执政兴国的第一要务。 | 经济提高           |
+| 推动经济社会发展<span style="background-color:khaki">绿</span>色化、低碳化 | 实现高质量发展的关<span style="background-color:khaki">键</span>环节 | 绿箭               |
+| 实体经济                                                     | 发展经济的着力点                                             | 实力               |
+| 坚持创新驱<span style="background-color:khaki">动</span>发展 | 第一<span style="background-color:khaki">动</span>力         | 动——动             |
+| 大<span style="background-color:khaki">力</span>发展制造业和实体经济 | 主要着<span style="background-color:khaki">力</span>点       | 力——力             |
+| 坚定<span style="background-color:khaki">不</span>移全面扩大对外开放 | 重要<span style="background-color:khaki">法</span>宝         | 不法               |
+| 统筹发展和<span style="background-color:khaki">安</span>全   | 重要<span style="background-color:khaki">保</span>障         | 安保               |
+| 坚持正确工作策略和<span style="background-color:yellow">方法</span> | 做好经济工作的<span style="background-color:yellow">方法</span>论 | 方法——方法         |
+
+-  <b>新发展格局</b>
+
+| 内容                                                         | 重要性                                                       | 助记               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ |
+| 构建新发展<span style="background-color:khaki">格</span>局   | 明确了我国经济现代化的<span style="background-color:khaki">路</span>径选择 | 路把城市分成不同格 |
+| 经济循环<span style="background-color:khaki">畅通无阻</span> | 构建新发展格局的<span style="background-color:khaki">关键</span> | 关卡畅通无阻       |
+| 扩大<span style="background-color:khaki">内</span>需         | 战略<span style="background-color:khaki">基</span>点         | 内急               |
+| <span style="background-color:khaki">供</span>给侧有效畅通整理<br>深化<span style="background-color: lightsalmon">供</span>给侧结构性改革 | 畅通经济循环最<span style="background-color:khaki">主</span>要的任务<br>推动高质量发展的<span style="background-color: lightsalmon">主</span>线 | 公主               |
+| 大力推动<span style="background-color:khaki">科技</span>创新 | 打造经济发展新<span style="background-color:khaki">动能</span> | 动能——物理——科技   |
+| 实现高水平自<span style="background-color:khaki">立</span>自强 | 最本质<span style="background-color:khaki">特</span>征       | 古立特             |
+| 发挥全面深化改<span style="background-color:khaki">革</span> | 在构建新发展格局中的关<span style="background-color:khaki">键</span>作用 | 隔间               |
 
 <span style="background-color: lavender">⑹建设现代化经济体系</span>
 
@@ -826,4 +855,244 @@ description: 技巧班
 Ⓑ党的领导是充分<font color=red>发挥中国特色社会主义制度优势的根本保障</font>
 
 Ⓒ党的自身优势是<font color=red>中国特色社会主义制度优势的主要来源</font>
+
+
+
+# 额外1：政协
+
+⒈协商<span style="background-color:yellow">民主</span> 
+
+- 是实现<span style="background-color:khaki">党</span><code style="background-color:gainsboro;color:darkred">party</code>的领导的重要方式
+- 是社会主文民主<span style="background-color:khaki">政治</span><code style="background-color:gainsboro;color:darkred">political</code>的特有形式和独特优势
+- 保证<span style="background-color:khaki">人民</span><code style="background-color:gainsboro;color:darkred">people</code>在日常政治生活中有广泛持续深入参与的权利
+
+<code style="background-color:gainsboro;color:darkred">口诀：三个P</code>
+
+⒉<span style="background-color:yellow">政协</span>（组织）
+
+- 中共领导的多党合作和政治协商<span style="background-color:khaki">制度</span>的重要组成部分。
+- 社会主义<span style="background-color:khaki">协商民主</span>重要形式
+- 凝聚智慧、增进共识、促进科学民主<span style="background-color:khaki">决策</span>的重要途径
+
+⒊政治协商最<span style="background-color:yellow">本质</span>的特征：坚持<span style="background-color:khaki">党</span>的领导
+
+⒋人民政协<span style="background-color:yellow">主题</span>：团结和民<span style="background-color:khaki">主</span> 
+
+⒌政协<span style="background-color:yellow">制度</span>中
+
+- <span style="background-color:yellow">党</span>的领导是多党合作的<span style="background-color:khaki">首要</span>前提、<span style="background-color:khaki">根本</span>保证
+- <span style="background-color:yellow">多</span>党合作是党的领导的核<span style="background-color:khaki">心</span>内容   <code style="background-color:gainsboro;color:darkred">口诀：多心</code>
+
+⒍政协<span style="background-color:yellow">制度显著特征</span>：<span style="background-color:khaki">党</span><u>领导</u>、<span style="background-color:khaki">多党</span>派<u>合作</u>；<span style="background-color:khaki">党</span><u>执政</u>、<span style="background-color:khaki">多党</span>派<u>参政</u>
+
+⒎政治<span style="background-color:yellow">协商基本方式</span>：政党协商；人民政协政治协商
+
+⒏政协<span style="background-color:yellow">会议</span>主要/基本<span style="background-color:yellow">职能</span>（会议工作）：政治<u>协商</u>、民主<u>监督</u>、<u>参政议政</u>
+
+⒐党与其他民主党派合作的<span style="background-color:yellow">基本方针</span>：（理解成兄弟姐妹的关系）
+
+- 长期共存，互相监督，肝胆相照，荣辱与共
+
+⒑会议70周年对人民政协的<span style="background-color:yellow">新要求</span>：坚持人民政协为<span style="background-color:khaki">人民</span> <code style="background-color:gainsboro;color:darkred">口诀：要命（民）</code>
+
+# 额外2：乡村振兴
+
+| 内容                                                         | 重要性                                                       | 助记                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 巩固脱贫攻坚成<span style="background-color:khaki">果</span> | 乡村振兴的<span style="background-color:khaki">前</span>提   | <code style="background-color:gainsboro;color:darkred">口诀：前程</code> |
+| 确保重要农产品特别是粮<span style="background-color:khaki">食</span>供给 | 乡村振兴的<span style="background-color:khaki">首</span>要任务 | <code style="background-color:gainsboro;color:darkred">口诀：守时</code> |
+| 实现农业农村<span style="background-color:khaki">现</span>代化 | 乡村振兴的总<span style="background-color:khaki">目</span>标 | <code style="background-color:gainsboro;color:darkred">口诀：羡慕</code> |
+| 坚持农业农村优<span style="background-color:khaki">先</span>发展 | 乡村振兴的总方<span style="background-color:khaki">针</span> | <code style="background-color:gainsboro;color:darkred">口诀：针线</code> |
+| 产业兴旺、生态宜居、乡风文明、治理有效、生活<span style="background-color:khaki">富</span>裕 | 乡村振兴的总要<span style="background-color:khaki">求</span> | <code style="background-color:gainsboro;color:darkred">口诀：求富</code> |
+| 建立健全城乡融合发展体<span style="background-color:yellow">制</span>机<span style="background-color:yellow">制</span>和政策体系 | 乡村振兴的<span style="background-color:yellow">制</span>度保障 |                                                              |
+| 实施城乡<span style="background-color:khaki">振</span>兴战略 | “三农”工作总抓<span style="background-color:khaki">手</span> | <code style="background-color:gainsboro;color:darkred">口诀：镇守</code> |
+| 保障国家粮食安全，不发生规模性返<span style="background-color:khaki">贫</span> | 乡村振兴的<span style="background-color:khaki">底</span>线   | <code style="background-color:gainsboro;color:darkred">口诀：瓶底</code> |
+| 让亿万农<span style="background-color:yellow">民</span>生活得更好 | 乡村振兴的<span style="background-color:yellow">出发点、落脚点</span> |                                                              |
+| 加快发展乡村<span style="background-color:khaki">产业</span> | 乡村振兴的<span style="background-color:khaki">重</span>中之重和<span style="background-color:khaki">关</span>键 | <code style="background-color:gainsboro;color:darkred">口诀：观众产业</code> |
+
+
+
+# 额外3：人权
+
+- 最<span style="background-color:khaki">大</span>的人权：人民幸<span style="background-color:khaki">福</span>生活。<code style="background-color:gainsboro;color:darkred">口诀：大富（大贵）</code>
+- <span style="background-color:khaki">首</span>要的基本人权：<span style="background-color:khaki">生</span>存权，<span style="background-color:khaki">发</span>展权。 <code style="background-color:gainsboro;color:darkred">口诀：首→头→生发</code>
+- 享有一切人权的基<span style="background-color:khaki">础</span>：生<span style="background-color:khaki">存</span>。<code style="background-color:gainsboro;color:darkred">口诀：储存</code>
+- 最基本，最原<span style="background-color:khaki">始</span>的权利：生<span style="background-color:khaki">命</span>权。 <code style="background-color:gainsboro;color:darkred">口诀：使命</code>
+
+# 额外4：社会、国家、民族、科技、人才、创新
+
+| 内容                                                     | 重要性                                                       | 助记                     |
+| -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------ |
+| <span style="background-color:khaki">社会</span>稳定     | <span style="background-color:khaki">国家</span>强盛的前提   | 社会➡国家                |
+| <span style="background-color:khaki">国家</span>安全     | <span style="background-color:khaki">民族</span>复兴的根基   | 国家➡民族                |
+| <span style="background-color:khaki">科</span>技自立自强 | 国家强盛之<span style="background-color:khaki">基</span>     | 柯（科）基               |
+| 科<span style="background-color:khaki">技</span>         | 第一生产<span style="background-color:khaki">力</span>       | 立即（力技）就是第一个做 |
+| 人<span style="background-color:khaki">才</span>         | 第一资<span style="background-color:khaki">源</span>         | （才）财源是生活第一重要 |
+| 创<span style="background-color:khaki">新</span>         | 第一<span style="background-color:khaki">动</span>力         | （新）心动是恋爱第一重要 |
+| 创<span style="background-color:khaki">新</span>         | 我国现代化建设全局中的核<span style="background-color:khaki">心</span>地位 |                          |
+
+# 额外5：五个必由之路
+
+| 内容                                                         | 重要性                                                       | 助记             |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- |
+| 坚持党的<span style="background-color:khaki">全</span>面领导 | 坚持和发展<span style="background-color:khaki">中</span>国特色社会主义的必由之路 | 全中             |
+| 中国特色社会<span style="background-color:khaki">主</span>义 | 实现中华民族伟大<span style="background-color:khaki">复</span>兴的必由之路 | 主妇             |
+| 团结<span style="background-color:khaki">奋</span>斗         | 中国人民创造<span style="background-color:khaki">历</span>史伟业的必由之路 | 奋力（历）       |
+| 贯彻新<span style="background-color:khaki">发展</span>理念   | 新时代我国<span style="background-color:khaki">发展</span>壮大的必由之路 | 发展——发展       |
+| 全面从<span style="background-color:khaki">严</span>治党     | 党永<span style="background-color:khaki">葆</span>生机活力、走好新的赶考之路的必由之路 | 保（葆）研（严） |
+
+# 额外6：共青团
+
+| 内容                                                         | 重要性                                                       | 助记       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 坚守<span style="background-color:khaki">理</span>想信念     | 共青团的政治之<span style="background-color:khaki">魂</span> | 婚礼       |
+| 坚定不移跟党走，为党和<span style="background-color:khaki">人</span>民奋斗。 | 共青团的初心和使<span style="background-color:khaki">命</span> | 人命       |
+| <u>额外：为<span style="background-color:khaki">人</span>民谋幸福，为民族谋复兴</u> | <u>党的初心使<span style="background-color:khaki">命</span></u> | 人命       |
+| 点亮理想之<span style="background-color:khaki">灯</span>、发出信念之<span style="background-color:khaki">光</span>。 | 共青团最根本最持久的凝<span style="background-color:khaki">聚</span>力 | 聚光灯     |
+| 巩固和扩大党执政的青年群众基<span style="background-color:khaki">础</span> | 共青团的政<span style="background-color:khaki">治</span>责任 | 处置       |
+| 投身民族复<span style="background-color:khaki">兴</span>     | 共青团的<span style="background-color:khaki">奋</span>进之力 | 兴奋       |
+| 坚持党的<span style="background-color:khaki">领</span>导。   | 共青团的立身之<span style="background-color:khaki">本</span> | 本领       |
+| 扎根广大<span style="background-color:khaki">青年</span>。   | 共青团的<span style="background-color:khaki">活力</span>之源 | 青年有活力 |
+| 共青团要怎么做                                               | ⑴坚持为党育人，始终成为引领中国青年思想进步的政治<span style="background-color:khaki">学</span>校<br/>⑵自觉担当尽责，始终成为组织中国青年永久奋斗的先锋<span style="background-color:khaki">力</span>量<br/>⑶心系广大青年，始终成为党联系青年最为牢固的<span style="background-color:khaki">桥</span>梁纽带<br/>⑷勇于自我革命，始终成为紧跟党走在时代前列的先进<span style="background-color:khaki">组</span>织 | 翘学阻力   |
+
+# 额外7：腿姐重要可考的keywords全整理
+
+| 内容                                                         | 重要性                                                       | 助记                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------ |
+| 全党同志务必<br/>A.不忘初<span style="background-color:khaki">心</span>、牢记使命<br/>B.谦<span style="background-color:khaki">虚</span>谨慎、艰苦奋斗<br/>C.敢于<span style="background-color:khaki">斗</span>争、善于斗争 | 三个务必                                                     | 都心虚                                     |
+| A.迎来中国共产党成立<span style="background-color:khaki">一百</span>周年<br/>B.中国特色社会主义进入<span style="background-color:khaki">新</span>时代<br/>C.完成脱贫攻坚、全面建成小康社会的历史任务，实现第<span style="background-color:khaki">一个百</span>年奋斗目标 | 三件大事<br/>（三个历史性胜利）                              | 大事就是捡到新100元                        |
+| A.团结带领全国各族人民全面建成社会主义现代化强<span style="background-color:khaki">国</span>、实现第二个百年奋斗目标<br/>B.以中国式现代化全面推进中华民族伟大复<span style="background-color:khaki">兴</span> | 党的中<span style="background-color:khaki">心</span>任务     | 心→兴国                                    |
+| A.坚持和加强党的全面领<span style="background-color:khaki">导</span><br/>B.坚持中国特色社会主义道<span style="background-color:khaki">路</span><br/>C.坚持以<span style="background-color:khaki">人民</span>为中心的发展思想<br/>D.坚持深化改革<span style="background-color:khaki">开</span>放<br/>E.坚持发扬斗<span style="background-color:khaki">争</span>精神 | 前进道路上，必须牢牢把握以下重大原则（5个坚持）              | 睁开眼到了人民路                           |
+| A. 经济实力、科技实力、综合国力大幅跃升，人均国内生产总值迈上新的大台阶，<span style="background-color:khaki">达</span>到中等发<span style="background-color:khaki">达</span>国家水平。<br/>B.实现高水平科技自立自强，<span style="background-color:khaki">进</span>入创新型国家<span style="background-color:khaki">前列</span>。<br/>C.<span style="background-color:khaki">建</span>成现代化经济<span style="background-color:khaki">体系</span>，形成新发展格局。<br/>D.人的全面发展、全体人民共同<span style="background-color:khaki">富裕</span>取得更为明显的<span style="background-color:khaki">实质</span>性进展。<br/>Ε.广泛形成绿色生产生活方式，碳排放达峰后稳中有降，生态<span style="background-color:khaki">环境</span>根本<span style="background-color:khaki">好转</span>。 | 2035 我国发展总体目标                                        |                                            |
+| <span style="background-color:khaki">全过程人民</span>民主   | 社会主义民主政治的<span style="background-color:khaki">本质</span>属性是 |                                            |
+| <span style="background-color:khaki">全过程人民</span>民主   | <span style="background-color:khaki">最</span>广泛、<span style="background-color:khaki">最</span>真实、<span style="background-color:khaki">最</span>管用的民主是 |                                            |
+| 协<span style="background-color:khaki">商</span>民主         | 实践全过程人民民主的重要形<span style="background-color:khaki">式</span>是 | 伤势（商式）<br>or商量不过是一种形式       |
+| <span style="background-color:khaki">基</span>层民主         | 全过程人民民主的重要<span style="background-color:khaki">体</span>现是 | 体积（基）<br>or从普通的地方体现重要的事情 |
+| 人民<span style="background-color:khaki">民</span>主         | 社会主义的<span style="background-color:khaki">生</span>命   | 民生                                       |
+| 人民<span style="background-color:khaki">民</span>主         | 全面建设社会主义现代化国家的应有之<span style="background-color:khaki">义</span> | 民意                                       |
+| 培养什么<span style="background-color:khaki">人</span>、怎样培养人、为谁培养人 | 教育的<span style="background-color:khaki">根本问题</span>   | 根本→人<br>问题→3个问题                    |
+| 立<span style="background-color:khaki">德</span>。全面贯彻党的教育方针，落实立德树人根本任务。 | <span style="background-color:khaki">育</span>人的根本在于   | 德育                                       |
+
+# 额外8 苏一keywords
+
+| 内容                                                         | 重要性                                                       | 助记                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ①～②                                                         |                                                              |                                                              |
+| ①推动<span style="background-color:khaki">高</span>质量发展  | 我国<span style="background-color:khaki">经济</span>发展的鲜明主<span style="background-color:khaki">题</span> | 经济提高                                                     |
+| ②<span style="background-color:khaki">高</span>质量发展      | 全面建设社会主义现代化国家的<span style="background-color:khaki">首</span>要任务 | 高手                                                         |
+| ③～⑤                                                         |                                                              |                                                              |
+| ③<b>政治安全</b><br><br/><b>经济安全</b><br/><br/><b>军事、文化、社会安全</b><br/><br/><b>促进国际安全</b> | 总体国家安全观的<font color=red>根本</font><br><br/>总体国家安全观的<font color=red>基础</font><br><br/>总体国家安全观的<font color=red>保障</font><br><br/>总体国家安全观的<font color=red>依托</font> | 政治和党有关，党是<font color=red>根</font>本<br/><br/>经济好了，有钱，钱是生存的<font color=red>基</font>本<br><br/>军事是武器，武器可以<font color=red>保</font>家卫国<br/><br/>国际，国与国要相互<font color=red>依</font>存 |
+| ④国家安全                                                    | 民族复兴的根基                                               | 民族是个很大的层面——所有方面的安全，包含了上面的四个安全，即国家安全 |
+| ⑤社会稳定                                                    | 国家强盛的前提                                               | 任何国家，只有稳定，才能发展。发展了才会强大                 |
+| ⑥～⑧                                                         |                                                              |                                                              |
+| ⑥民生                                                        | 社会和谐之本、人民幸福之基                                   | 易靠干扰选项                                                 |
+| ⑦就业                                                        | 最基本的民生、民生之本、人民生存的经济基础和基本保障         | 只有就业了才有工作才有钱                                     |
+| ⑧<span style="background-color:greenyellow">教</span>育、<span style="background-color:greenyellow">科</span>技、<span style="background-color:greenyellow">人才</span> | 全面建设社会主义现代化国家的基础性、战略性<span style="background-color:aqua">支撑</span> | 只有<span style="background-color:greenyellow">科教人才</span>才能<span style="background-color:aqua">自称</span><span style="background-color:pink">高手</span> |
+| ⑨～⑪                                                         |                                                              |                                                              |
+| ⑨以中国式现代化推进中华民族伟大复<span style="background-color:khaki">兴</span><br>（即：第二个百年奋斗目标） | 新时代新征程中国共产党的使命任务/中<span style="background-color:khaki">心</span>任务 | 心→兴                                                        |
+| ⑩坚持以<b>人民</b>为中心的发展思想                           | 我国经济发展的根本<b>立场</b>                                | 立场对应的往往根人民有关                                     |
+| ⑪大力发展制造业和<span style="background-color:khaki">实</span>体经济 | 我国经济发展的主要着<span style="background-color:khaki">力</span>点 | 实力                                                         |
+| ⑫～⑭                                                         |                                                              |                                                              |
+| ⑫中国共产党领导的多党合作和政治协商制度、民族区域自治制度、<span style="background-color:khaki">基</span>层群众自治制度 | 我国的<span style="background-color:khaki">基</span>本政治制度 | 共3个                                                        |
+| ⑬人民代表大会制度                                            | 我国的根本政治制度                                           |                                                              |
+| ⑭团结和民主                                                  | 人民政协的主题                                               |                                                              |
+| ⑮～⑰                                                         |                                                              |                                                              |
+| ⑮民族<span style="background-color:khaki">团结</span>之本    | 中华民族<span style="background-color:khaki">共同</span>体意识 |                                                              |
+| ⑯大团结大联合                                                | <span style="background-color:yellow">统战</span>工作的本质要求 |                                                              |
+| ⑰促进中华儿女大团结                                          | 新时代爱国<span style="background-color:yellow">统一战线</span>的历史责任 | 统战、统一战线都跟团结有关                                   |
+| ⑱～⑳                                                         |                                                              |                                                              |
+| ⑱<font color=red>人民</font>性                               | 中国<font color=red>人权</font>发展道路<font color=red>最显著</font>的特征 |                                                              |
+| ⑱<font color=red>人民</font>幸福生活                         | 中国<font color=red>人权</font>发展道路的主要特征中，最大的人权是 |                                                              |
+| ⑲勇于自我革命                                                | 中国共产党<u>最鲜明的品格、最大的优势</u>，区别于其他政党的<u>显著标志</u> |                                                              |
+| ⑳勇于自我革命                                                | 跳出治乱兴衰的历史周期率给出的<u>第二个答案</u>              |                                                              |
+| ⑳反腐败                                                      | 最彻底的<u>自我革命</u>是                                    |                                                              |
+|                                                              |                                                              |                                                              |
+| 自由                                                         | 社会活力之源，社会主义的价值<span style="background-color:khaki">理想</span>是 |                                                              |
+| 平等                                                         | 人类追求的<span style="background-color:khaki">美好状态</span>是 |                                                              |
+| <span style="background-color:khaki">公</span>正             | 人类社会进步的<span style="background-color:khaki">标尺</span>，社会主义制度的<span style="background-color:khaki">本</span>质要求是 | 宫本                                                         |
+| 法治                                                         | 人类<span style="background-color:khaki">政治</span>文明的重要成果，现代社会的主要特征是 |                                                              |
+| 爱国                                                         | <span style="background-color:khaki">每个公民</span>应当遵循的最基本的价值观念和道德准则是 |                                                              |
+| 敬业                                                         | 对待生产<span style="background-color:khaki">劳动</span>和人类生存的一种根本价值态度是 |                                                              |
+| 诚信                                                         | 个人立身处世的基本<span style="background-color:khaki">价值</span>规范，社会存续发展的重要<span style="background-color:khaki">价值</span>基石是 | 价值规律体现在做生意上面，做生意讲究诚信                     |
+| 友善                                                         | 维系良好<span style="background-color:khaki">人际</span>关系和社会关系的基本价值准则是 |                                                              |
+|                                                              |                                                              |                                                              |
+| 党的领导                                                     | 我们的法治同西方资本主义国家的法治最大的区别；<br>社会主义法治最根本的保证；<br/>中国特色社会主义法治之魂是 | 往往“XX之魂”都是传统美德之类                                 |
+| 依法保障<span style="background-color:khaki">人民</span>权益 | 推进全面依法治国，根本<span style="background-color:khaki">目的</span>是 | 目的→人民<br>题干里提到根本、根本保证等一般与党的领导、人民有关 |
+|                                                              |                                                              |                                                              |
+| 完备的法律规范体系                                           | 中国特色社会主义法治体系的<font color=red>前提</font>，法治国家、法治政府、法治社会的<font color=red>制度基础</font>是 |                                                              |
+| 高效的法治<span style="background-color:khaki">实施</span>体系 | 建设中国特色社会主义法治体系的<font color=red>重点</font>是  | 实施就是用，要重点用，重用                                   |
+| 严密的法治<span style="background-color:khaki">监督</span>体系 | 宪法法律有效实施的<font color=red>重要<span style="background-color:aqua">保障</span></font>，加强对权力运行制约和<span style="background-color:khaki">监督</span>的迫切要求是 | 跟下一句别弄混                                               |
+| 有力的法治<span style="background-color:aqua">保障</span>体系 | 全面依法治国的<font color=red>重要依托</font>是              | 医保                                                         |
+| 完善的党内<span style="background-color:khaki">法规体系</span> | 中国特色社会主义<span style="background-color:khaki">法治体系</span>的本质要求和重要内容是 |                                                              |
+| 法治政府建设                                                 | 推进全面依法治国的<font color=red>重点任务和主体工程</font>，对法治国家、法治社会建设具有示范带动作用，要<font color=red>率先突破</font>的是 | 法治国家是法治建设的目标（没有国家会迷失，所以是目标）<br/>法治政府是建设法治国家的重点（没有政府会乱套，所以是重点）<br/>法治社会是构筑法治国家的基础（没有社会难有国，所以是基础） |
+|                                                              |                                                              |                                                              |
+| 科学立法<br>立法                                             | 全面依法治国的前提<br>法治的龙头环节                         |                                                              |
+| 严格执法                                                     | 全面依法治国的关键是：                                       | 执是做，关键是做                                             |
+| 公正司法                                                     | 全面依法治国的重点，<br>为保障人权提供了有力的司法救济途径是： |                                                              |
+| 公正                                                         | 法治的生命线、<br>司法活动最高的价值追求、<br>人民群众感知法治建设的一把尺子 |                                                              |
+| 全<span style="background-color:khaki">民</span>守法         | 全面依法治国的<span style="background-color:khaki">基础</span>是： |                                                              |
+| 权利保障——<br>①宪法保障<br/>②立法保障<br/>③<span style="background-color:khaki">行</span>政保障<br/>④司法保障 | 权利保障——<br>①权利保障的前提和基础；<br>②权利保障的重要条件；<br/>③权利保障的关键<span style="background-color:khaki">环节</span>；<br/>④权利保障的最后防线 | ③行就是做，做是一个环节<br>④司法是打官司，打官司是最后手段   |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+
+# 额外9 苏一技巧
+
+## 技巧1：根本、决定、最基本、核心
+
+​        马原中的“根本、决定、核心、最”，只能对应“物质、生产（生产力）、物质生产方式、实践（即劳动）、矛盾（社会基本矛盾）、人民群众”这些选项。如果这些选项都没有，退而求其次，可以选“经济”
+
+- ⑴特殊注意： “科学技术”本身不能搭配“决定”，只有当它和生产同时出现时，可以搭配“决定”
+- ⑵做题思路：圈出题干和选项中的“根本、决定、核心、最”等帽子，看帽子前后搭配对不对。
+
+## 技巧2-5：哲学中的客观
+
+- ⒈客观的事物，是不以人的意志为转移的。客观先于主观之前，客观是前提。
+- ⒉主观（人）不能改变客观，主观不能决定客观。
+- ⒊要改变：只有条件可以改变（规律是前提，在这个前提下，才可以改变）
+- ⒋规律（必然性）、联系、时空、物质、真理、价值都具有客观性，人（主观）不能改变。
+- ⒌自然规律：与人无关。历史规律（社会规律）：与人有关。
+- ⒍特殊注意：
+  - ⑴人不能改造、消灭、摆脱规律，但可以认识、利用规律
+  - ⑵人虽然不可以改变规律，但是可以改变规律发挥作用的条件。
+  - ⑶价值的客观性：主体的需要+客体的功能属性都是客观的
+
+## 技巧6-8：哲学中常考的“统一”
+- ⒈实践是A和B的……的基础（记住3个常考的点） ：
+  - ⑴实践是客观规律性与主观能动性统一的基础
+  - ⑵人的实践活动是合乎规律性和合乎目的性的统一
+  - ⑶人的实践活动要遵循真理尺度与价值尺度的统一
+- ⒉任何历史人物的出现都体现了必然性和偶然性的统一
+- ⒊事物的发展是曲折性与前进性的统一
+
+## 技巧9-10：哲学中特别重要的“XX特性”
+- ⒈物质的本质规定：客观实在性
+- ⒉物质的唯一特性（共同特性）：客观实在性
+- ⒊时空具有：客观性（这是绝对的）、绝对性（无限性）与相对性（有限性）
+
+【助记】有限无限看搭配，整体搭配无限、具体搭配有限
+
+## 技巧11：国内与国际
+- ⒈毛中特和当代的多选题中：经常考“国内”的事件，用“国际”事件来干扰。
+- ⒉除非这个“国内”提的事件，在题干中提到“和国际有关”，那么选项中的“国际”因素才能选
+
+## 技巧12：当代15-16题中的“心心相印”
+- 此技巧主要针对：当代选择题的15-16题
+- 把题干中多次提及到的“关键词、主题词”，对应到选项中。哪个选项的“关键词”与题干对应的对多，就选哪个
+
+
+
+# 额外10 民族工作
+
+| 内容                                                         | 重要性                                                       | 助记                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------- |
+| <span style="background-color:khaki">铸</span>牢中华民族共同体意识 | 党的民族工作的<span style="background-color:khaki">主</span>线<br>新时代党的民族工作的“<span style="background-color:khaki">钢</span>” | 主→铸<br>铸钢              |
+| 实现中华民族伟大<span style="background-color:khaki">复</span>兴 | 新时代民族工作<span style="background-color:khaki">出</span>发点和落脚点 | 复出                       |
+| 民族<span style="background-color:khaki">平</span>等、民族<span style="background-color:khaki">团</span>结和各民族<span style="background-color:khaki">共同</span>繁荣 | 社会主义民族工作关系的<span style="background-color:khaki">核心</span> | 拼多多的业务核心：共同拼团 |
+| 民族<span style="background-color:khaki">团</span>结         | 我国各民族的<span style="background-color:khaki">生命</span>线 | 生面团                     |
+| 推动各民族为全面建设社会主义<span style="background-color:khaki">现</span>代化共同奋斗 | 重要<span style="background-color:khaki">任</span>务         | 现任                       |
+| 中华共同<span style="background-color:khaki">体</span>意识   | 民族团结之<span style="background-color:khaki">本</span>     | 本体                       |
+| A维护各民族根本利<span style="background-color:khaki">益</span>的必然要求<br/>B实现中华民族伟大<span style="background-color:khaki">复</span>兴的必然要求<br/>C巩固和发展平等团结互助和谐的社会主义民族关<span style="background-color:khaki">系</span>的必然要求<br/>D党民族工作开创<span style="background-color:khaki">新</span>局面的必然要求 | 铸牢中华民族的共同体意识                                     | 四个“必然”<br/>心系义父    |
+| 引导各族人民牢固树立<span style="background-color:khaki">休</span>戚与共、荣<span style="background-color:khaki">辱</span>与共、<span style="background-color:khaki">生</span>死与共、<span style="background-color:khaki">命</span>运与共的共同体理念 | 铸牢中华民族的共同体意识就要                                 | 四个“与共”<br>羞辱生命     |
 
